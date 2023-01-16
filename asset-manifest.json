@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nandem1/desafio-1-galeriareact/static/css/main.bc0e006e.css",
-    "main.js": "/Nandem1/desafio-1-galeriareact/static/js/main.2996c994.js",
-    "static/js/787.11270f65.chunk.js": "/Nandem1/desafio-1-galeriareact/static/js/787.11270f65.chunk.js",
-    "static/media/favicon.ico": "/Nandem1/desafio-1-galeriareact/static/media/favicon.b67125dfba44b6f18518.ico",
-    "index.html": "/Nandem1/desafio-1-galeriareact/index.html",
-    "main.bc0e006e.css.map": "/Nandem1/desafio-1-galeriareact/static/css/main.bc0e006e.css.map",
-    "main.2996c994.js.map": "/Nandem1/desafio-1-galeriareact/static/js/main.2996c994.js.map",
-    "787.11270f65.chunk.js.map": "/Nandem1/desafio-1-galeriareact/static/js/787.11270f65.chunk.js.map"
+    "main.css": "/desafio-1-galeriareact/static/css/main.bc0e006e.css",
+    "main.js": "/desafio-1-galeriareact/static/js/main.292bdc92.js",
+    "static/js/787.11270f65.chunk.js": "/desafio-1-galeriareact/static/js/787.11270f65.chunk.js",
+    "static/media/favicon.ico": "/desafio-1-galeriareact/static/media/favicon.b67125dfba44b6f18518.ico",
+    "index.html": "/desafio-1-galeriareact/index.html",
+    "main.bc0e006e.css.map": "/desafio-1-galeriareact/static/css/main.bc0e006e.css.map",
+    "main.292bdc92.js.map": "/desafio-1-galeriareact/static/js/main.292bdc92.js.map",
+    "787.11270f65.chunk.js.map": "/desafio-1-galeriareact/static/js/787.11270f65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc0e006e.css",
-    "static/js/main.2996c994.js"
+    "static/js/main.292bdc92.js"
   ]
 }
