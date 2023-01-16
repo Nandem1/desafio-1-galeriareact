@@ -1,0 +1,29 @@
+.card-img {
+    width: 22rem;
+    height: 15rem;
+    object-fit: cover;
+}
+
+.allcard {
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.567);
+}
+
+#popover-basic {
+    background-color: black;
+}
+
+.popheader {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
+
+@media (max-width: 750px) {
+    .allcard {
+        width: 20rem !important;
+    }
+
+    .card-img {
+        width: 20rem;
+    }
+}

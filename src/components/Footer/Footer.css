@@ -1,0 +1,27 @@
+.footer-box {
+    background-color: #212529;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    margin-top: 2%;
+    flex-direction: column;
+}
+
+.footer-box p {
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (max-width: 720px) {
+    .footer-box {
+        height: 20vh;
+        padding: 20px;
+    }
+
+    .footer-box p {
+        margin: 10px;
+        text-align: center;
+    }
+}
